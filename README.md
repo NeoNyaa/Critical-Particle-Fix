@@ -1,2 +1,2 @@
 # Critical Particle Fix
-Removes as stray pixel in the critical hit particle.
+Removes a stray pixel in the critical hit particle.
